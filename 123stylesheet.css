@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "HappyZcool-2016";
+  src: url("HappyZcool-2016.woff2") format("woff2"),
+       url("HappyZcool-2016.woff") format("woff"),
+       url("HappyZcool-2016.ttf") format("truetype"),
+       url("HappyZcool-2016.eot") format("embedded-opentype"),
+       url("HappyZcool-2016.svg") format("svg"),
+       url("HappyZcool-2016.otf") format("opentype");
+}
+
